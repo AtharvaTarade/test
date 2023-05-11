@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Example Page</title>
+  </head>
+  <body>
+    <h1  align="center";style="background-color:powderblue;>Dashboard</h1>
+    <table>
+      <thead>
+        <tr>
+          <th>Charts</th>
+          <th>Gender</th>                                               
+          <th>Count</th>
+        </tr>                                      
+      </thead>                                      
+      <tbody>
+        <tr>                                   
+          <td></td>
+          <td>%%ZPLJmc%%</td>
+        </tr>
+        <tr>
+          <td> <img src="%%7cfb9f05-7466-45dd-ac03-327c1915ff1a%%" alt="7cfb9f05-7466-45dd-ac03-327c1915ff1a"></td>
+        </tr>
+        <tr>
+          <td><img src="%%EvEnKmp%%" alt="EvEnKmp"></td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
